@@ -4,6 +4,5 @@
   },
   "dependencies": {
     "servor": "^4.0.2"
-  },
-  "root":"./web"
+  }
 }
