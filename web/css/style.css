@@ -43,6 +43,7 @@ body {
      font-family: 'Poppins', sans-serif;
      line-height: 1.80857;
      font-weight: normal;
+     margin: 0; height: 100%; overflow: hidden; /*ocultar secciones temporalmente */
 }
 
 a {
